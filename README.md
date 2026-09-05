@@ -1,4 +1,4 @@
-# ResiliSense
+# ShelterSense
 
 **Predictive Edge AI for Emergency Shelter Resilience**
 
